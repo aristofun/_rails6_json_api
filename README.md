@@ -1,4 +1,4 @@
-Rails 6, API assignment
+Rails 6, Sendgrid Web API
  
 ## Local setup
 
