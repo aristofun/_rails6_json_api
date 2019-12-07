@@ -2,6 +2,6 @@ en:
   hello: "Hello world"
 
   sendgrid:
-    invite_email_subject: "Sending with Twilio SendGrid is Fun - %name%"
-    invite_email_body: "and easy to do anywhere, even with Ruby: %name% "
+    invite_email_subject: "Welcome, %name%"
+    invite_email_body: "Hi %name%, welcome to mobilize!"
     limit_exceeded_error: "SendGrid API limit exceeded!"
